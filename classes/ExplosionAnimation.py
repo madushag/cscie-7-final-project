@@ -2,7 +2,7 @@
 # ExplosionAnimation.py
 # This file contains the class definition for handling explosion animations
 
-# Author : Madusha Gamage
+# Author : This code was borrowed from https://www.pygame.org/wiki/Spritesheet, and optimized by Madusha Gamage
 # Date : 11/25/2022
 # *********************************************************************************************************
 

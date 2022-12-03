@@ -1,3 +1,11 @@
+# *********************************************************************************************************
+# Player.py
+# This file contains the class definition for the Player object that represents the gun
+
+# Author : Madusha Gamage
+# Date : 11/25/2022
+# *********************************************************************************************************
+
 from helpers import Utility
 import pygame
 import math
